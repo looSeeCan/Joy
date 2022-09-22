@@ -1,0 +1,16 @@
+body {
+    /* color: red; */
+
+}
+
+.firstDiv {
+    color: red;
+    border: 2px dotted green;   
+}
+
+.secondDiv {
+    color: tomato;
+    text-align: center;
+    border: 2px black solid;
+    box-shadow: grey 5px 5px;
+}
